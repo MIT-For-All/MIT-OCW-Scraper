@@ -1,0 +1,15 @@
+{
+		"env": {
+			"node": 8
+		},
+    "extends": "airbnb-base",
+		"rules": {
+			"comma-dangle": "off",
+			"no-tabs": "off",
+			"indent": ["error", "tab"],
+			"semi": ["error", "never"],
+			"no-console": "off",
+			"no-plusplus": "off",
+			"space-infix-ops": "off"
+		}
+}
